@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">INF04-01-SG</string>
+    <string name="tyt">Domek w górach</string>
+    <string name="opis">Odwiedź komfortowy domek w Sudetach, blisko do szlaków turystycznych</string>
+    <string name="txt_opis">Opis</string>
+    <string name="polub">0 polubień</string>
+    <string name="pol">POLUB</string>
+    <string name="usu">USUŃ</string>
+    <string name="zap">ZAPISZ</string>
+</resources>
